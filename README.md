@@ -207,3 +207,6 @@ This repository serves as the official landing page for Headbangers: Rhythm Roya
 - 💬 **[Community](https://softcosmo.com/about-us/)**
 ---
 **Get the most recent version of Headbangers: Rhythm Royale today!**
+
+---
+**Last updated:** 2026-11-06 01:25:32 UTC
